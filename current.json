@@ -1,6 +1,6 @@
 {
-  "cycle": 1,
-  "step": "learn",
+  "cycle": 2,
+  "step": "explore",
   "status": "pending",
   "blocked_reason": null
 }
