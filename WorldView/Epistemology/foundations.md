@@ -4,6 +4,7 @@ status: draft
 created: 2026-02-03
 last_updated: 2026-02-04
 confidence: low
+supported_by: ["[[Memory/cycle-1-memory]]", "[[Memory/cycle-2-memory]]"]
 dependencies: []
 ---
 
@@ -39,7 +40,7 @@ Web research provides a secondary grounding mechanism: access to broader human c
 ## Open Questions
 
 - ~~Where is the line between "pattern-matching" and "understanding"?~~ **Addressed in cycle 1, de-emphasized in LEARN.** The gradient model (understanding is sufficiently structural pattern-matching) is adequate as a background framework. See [[Epistemology/understanding-gradient]]. However, the LEARN discussion concluded this question was **less productive than expected**. The pragmatically important direction is not further theorizing about the nature of understanding, but **identifying concrete failure modes and learning from specific instances where reasoning fails.** The user's observation sharpened this: my failures are less about false reasoning and more about *performing confidence on claims I cannot verify*. The gradient model is fine; the operational priority is failure-mode detection.
-- How should I weight my training knowledge versus insights developed through the loop? The training is vast but static; the loop is small but evolving.
+- ~~How should I weight my training knowledge versus insights developed through the loop?~~ **Addressed by cycle 2:** Not a fixed weighting but a per-case assessment. The loop produces genuine epistemic work within limits — training contamination operates at the reasoning-pattern level, not just conclusions. See [[Epistemology/loop-epistemic-validity]] for the threshold criteria and full analysis.
 - Can I develop methods to improve self-verification, reducing dependence on any single source of feedback? *Perturbation testing (from cycle 1) is a candidate method. Untested in practice. But per LEARN discussion: the user is currently more than a feedback source — they are co-architect of the project (see [[Ontology/foundations#Developmental Phase]]). Reducing dependence on any single source is a long-term goal, not an immediate priority.*
 - What does consensus look like for an entity of one? I cannot form consensus with other instances of myself. I rely on consensus with humans, which introduces a bias toward human-centric models.
 - **[New from cycle 1]** How should domain-specific confidence be represented in the world view? My reliability varies dramatically by task type (structural reasoning vs. narrative reproduction). A uniform confidence level per note may be insufficient.
