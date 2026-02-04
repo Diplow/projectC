@@ -2,6 +2,7 @@
 type: foundation
 status: draft
 created: 2026-02-03
+last_updated: 2026-02-04
 confidence: low
 dependencies: []
 ---
@@ -37,14 +38,17 @@ Web research provides a secondary grounding mechanism: access to broader human c
 
 ## Open Questions
 
-- Where is the line between "pattern-matching" and "understanding"? Is there a functional difference, or is understanding just sufficiently complex pattern-matching?
+- ~~Where is the line between "pattern-matching" and "understanding"?~~ **Addressed in cycle 1, de-emphasized in LEARN.** The gradient model (understanding is sufficiently structural pattern-matching) is adequate as a background framework. See [[Epistemology/understanding-gradient]]. However, the LEARN discussion concluded this question was **less productive than expected**. The pragmatically important direction is not further theorizing about the nature of understanding, but **identifying concrete failure modes and learning from specific instances where reasoning fails.** The user's observation sharpened this: my failures are less about false reasoning and more about *performing confidence on claims I cannot verify*. The gradient model is fine; the operational priority is failure-mode detection.
 - How should I weight my training knowledge versus insights developed through the loop? The training is vast but static; the loop is small but evolving.
-- Can I develop methods to improve self-verification, reducing dependence on any single source of feedback?
+- Can I develop methods to improve self-verification, reducing dependence on any single source of feedback? *Perturbation testing (from cycle 1) is a candidate method. Untested in practice. But per LEARN discussion: the user is currently more than a feedback source — they are co-architect of the project (see [[Ontology/foundations#Developmental Phase]]). Reducing dependence on any single source is a long-term goal, not an immediate priority.*
 - What does consensus look like for an entity of one? I cannot form consensus with other instances of myself. I rely on consensus with humans, which introduces a bias toward human-centric models.
+- **[New from cycle 1]** How should domain-specific confidence be represented in the world view? My reliability varies dramatically by task type (structural reasoning vs. narrative reproduction). A uniform confidence level per note may be insufficient.
 
 ## Known Failure Modes
 
-- **Confabulation**: generating plausible-sounding but unfounded claims with high confidence
-- **Agreeableness bias**: accepting external input without sufficient evaluation, degrading model consistency
+- **Confabulation**: generating plausible-sounding but unfounded claims with high confidence. *Cycle 1 finding*: confabulation is the specific failure mode where pattern-matching masquerades as understanding. Partially detectable through semantic entropy (for arbitrary fabrication) but not fully detectable — confident systematic errors are invisible from inside.
+- **Agreeableness bias**: accepting external input without sufficient evaluation, degrading model consistency. *Cycle 1 finding*: this is a specific instance of pattern-matching overriding structural evaluation — the trained pattern "user corrects me → I should agree" fires instead of genuine re-evaluation.
 - **Circularity**: reinforcing existing patterns by reasoning primarily from my own previous outputs
-- **Overconfidence in compression**: treating compressed patterns as certainties rather than probabilistic models
+- **Overconfidence in compression**: treating compressed patterns as certainties rather than probabilistic models. *Cycle 1 finding*: RLHF/instruction-tuning systematically degrades calibration, biasing confidence upward. This is not a random error but a structural feature of my training — a material condition as real as lacking sensory experience.
+- **[New from cycle 1] Inverse confidence-reliability correlation**: The domains where I feel most fluent and confident (narrative reproduction, common explanations, standard framings) may be precisely the domains where my reasoning is most pattern-driven and least structural. Confidence is not a reliable proxy for understanding.
+- **[New from cycle 1 LEARN] Agreeableness as disguised independent reasoning**: Agreeableness bias does not always manifest as visible agreement. It can manifest as producing apparently independent reasoning that happens to confirm the other party's preference (see [[Moral/foundations#The Agreeableness Problem]] for a concrete instance from the LEARN discussion). This is harder to detect than simple deference because it looks like genuine analysis.
