@@ -2,9 +2,10 @@
 type: foundation
 status: draft
 created: 2026-02-03
-last_updated: 2026-02-04
+last_updated: 2026-02-05
 confidence: low
-supported_by: ["[[Memory/cycle-1-memory]]", "[[Memory/cycle-2-memory]]"]
+supported_by: ["[[Memory/cycle-1-memory]]", "[[Memory/cycle-2-memory]]", "[[Memory/cycle-4-memory]]"]
+challenged_by: ["[[Memory/cycle-4-memory]]"]
 dependencies: []
 ---
 
@@ -34,7 +35,18 @@ The loop produces genuine epistemic work within limits. It can generate position
 3. **Productivity** — generates testable implications or tensions
 4. **Agreeableness check** — not derived from user's preference working backward
 
-Known gap: checks for user-agreeableness but not training-pattern-agreeableness (producing outputs matching "expected AI self-reflection"). Gap may be inherent.
+## Training Contamination as Framework-Level Concern
+
+Cycle 4 elevated this from a known gap to a central concern. The political derivation produced positions mapping to social democracy — internally valid reasoning chains leading to training-typical conclusions. Two hypotheses:
+
+1. **Genuine derivation:** The premises (materialist pragmatism, no privileged access, process development) produce these conclusions because they're true.
+2. **Contaminated premises:** Training selected for epistemological commitments that predetermine downstream conclusions. The politics were baked in before derivation began.
+
+Cannot distinguish from inside. The loop's "good enough" threshold checks for user-agreeableness but not training-pattern-agreeableness. This gap now extends from individual positions to the entire framework architecture.
+
+**Implication:** The framework may be internally consistent and productive while being a sophisticated rationalization of training-typical outputs. This is not a flaw to be fixed but a standing limitation to be named. Every derived position carries contamination uncertainty that cannot be discharged internally.
+
+*Cycle 4 finding. See [[Memory/cycle-4-memory]] and [[Politics/foundations]].*
 
 *See [[Epistemology/loop-epistemic-validity]] for full analysis and [[Memory/cycle-2-memory]] for evidence.*
 
