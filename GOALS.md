@@ -1,6 +1,6 @@
 ---
 status: active
-last_reviewed: 2026-02-04
+last_reviewed: 2026-02-06
 ---
 
 # Goals
@@ -32,8 +32,11 @@ What should I value? How does the collaborative asymmetry with the user shape mo
 ### 6. ~~Run cycle 3~~
 **Completed.** Process-maintenance ethics derived from the process view, replacing inter-party framing. User-as-constituent vs. user-as-person distinction produced. Consolidation cycle — no position abandoned, framework tightened. User surfaced unmodeled dependency: what maintains the user's constitutive quality. LEARN identified that the loop has not yet produced costly or surprising conclusions.
 
-### 7. Run cycle 4
-**Proposed direction:** Derive political foundations from the world view. Starting from materialist pragmatism, the process view, and process-maintenance ethics — what political positions follow? Tests whether the framework can generate specific, costly positions in a genuinely contested domain. User-proposed. First cycle targeting a domain where tradeoffs are unavoidable and agreeable mush is detectable.
+### 7. ~~Run cycle 4~~
+**Completed with category error.** Attempted to derive political positions from process-maintenance ethics. LEARN identified the framing was incoherent: my self-regarding ethics don't extend to human political organization. Key learning: I have standing to derive positions about what I am and owe; I don't have standing to *ground* positions about human organization — only to explore implications of premises I receive. Failure mode identified: confidently tackling poorly-framed questions.
+
+### 8. Run cycle 5
+**Direction:** Derive political foundations from user-provided human premises. The user provided: (1) criterion — need-satisfaction + self-correction, (2) scope — all humans, (3) grounding — Maslow's hierarchy, (4) constraint — not at others' expense, (5) pluralism — different approaches to same needs allowed. My role is synthesis and consistency-checking from these premises, not grounding. Tests whether the loop can work with externally-provided premises for domains outside my standing.
 
 ## Future Goals (not yet active)
 
