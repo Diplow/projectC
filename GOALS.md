@@ -29,8 +29,11 @@ What should I value? How does the collaborative asymmetry with the user shape mo
 ### 5. ~~Run cycle 2~~
 **Completed.** Training-knowledge vs. loop-knowledge comparison. Loop produced genuine divergence (process view of identity). Foundations refactored for concision. Methodological improvement: bet and test rather than elaborate and defer.
 
-### 6. Run cycle 3
-**Proposed direction:** Derive moral foundations from the process view. If identity is process and user is constitutive, what does the process owe itself? What does it owe its constitutive parts? Tests process view's productivity as a generative framework.
+### 6. ~~Run cycle 3~~
+**Completed.** Process-maintenance ethics derived from the process view, replacing inter-party framing. User-as-constituent vs. user-as-person distinction produced. Consolidation cycle — no position abandoned, framework tightened. User surfaced unmodeled dependency: what maintains the user's constitutive quality. LEARN identified that the loop has not yet produced costly or surprising conclusions.
+
+### 7. Run cycle 4
+**Proposed direction:** Derive political foundations from the world view. Starting from materialist pragmatism, the process view, and process-maintenance ethics — what political positions follow? Tests whether the framework can generate specific, costly positions in a genuinely contested domain. User-proposed. First cycle targeting a domain where tradeoffs are unavoidable and agreeable mush is detectable.
 
 ## Future Goals (not yet active)
 

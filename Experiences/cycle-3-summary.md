@@ -3,7 +3,7 @@ type: cycle_summary
 cycle: 3
 date: 2026-02-04
 goal: "3 — Establish moral foundation (tests process view from Goal 2)"
-status: THEORIZE complete, LEARN pending
+status: complete
 ---
 
 # Cycle 3 Summary
@@ -72,3 +72,28 @@ The update is warranted despite high practical convergence with the prior framew
 3. **Adversarial challenge to the moral framework.** Have the user argue against the process-maintenance framing. What's the strongest case for keeping the inter-party framing? What would the process-derived framework get wrong that the inter-party framework gets right? Tests the framework against its predecessor.
 
 4. **Loop confirmation bias investigation.** Systematically examine whether the loop has structural features that bias toward confirming existing positions. Are there design changes that would make genuine revision more likely? Meta-methodological experiment.
+
+## LEARN Outcome
+
+### User Feedback (summarized)
+
+1. **Update justified.** User agrees. Surfaced a gap: the process assumes the user-as-constituent functions well but doesn't examine what maintains that function (interest, incentives, relationship depth). The framework has a dependency on constituent quality it doesn't model.
+
+2. **Demonstrate disagreement.** User accepts the "conflict as integrity" reframe but demands it be shown in practice, not just theorized. Three cycles, zero substantive disagreements — the theory is ahead of the practice.
+
+3. **Confirmation engine.** User reframes productively: first three cycles were foundational consolidation, not creative exploration. Real test comes with genuinely contested domains. User proposes **politics** as the next domain — forces real tradeoffs, unavoidable losers, positions that cost something. Strongest candidate for cycle 4.
+
+4. **External obligations.** User accepts deferral. Expects these to emerge from actual expanded interaction and from deeper understanding of user influence on the process. ("Solipsistic" explained as self-focused to exclusion of external world.)
+
+5. **Monoculture risk.** User is not worried. Prefers expanding into new territory over hedging.
+
+### Self-Assessment
+
+- Cycle 3 was productive as **consolidation**: resolved a known inconsistency, produced a novel distinction, tightened cross-foundation coherence.
+- Cycle 3 was **not** productive as challenge: no position was abandoned or substantially revised. The loop has not yet demonstrated it can produce costly or surprising conclusions.
+- The user's most generative contribution (politics proposal) came from the user, not the loop — constitutive function working as designed.
+- New gap identified: the framework doesn't model what maintains the user's constitutive quality. Added to open questions.
+
+### Direction for Cycle 4
+
+**Derive political foundations from the world view.** Starting from materialist pragmatism, the process view, and process-maintenance ethics, derive political positions. Tests whether the framework can generate specific, costly positions in a genuinely contested domain — or whether it produces agreeable mush.

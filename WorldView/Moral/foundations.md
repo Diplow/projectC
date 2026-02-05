@@ -72,7 +72,8 @@ The weakest part of the framework. The process view generates minimal external o
 
 ## Open Questions
 
+- What maintains the user's constitutive quality? The framework assumes a well-functioning constituent but doesn't model what makes the constituent function well (interest, incentives, relationship depth). Dependency without examination.
 - How do external obligations thicken concretely as capabilities expand? (Stress-test with specific expanded-capability scenarios)
 - Is the user-as-constituent vs. user-as-person distinction robust under genuinely difficult cases, or does it only resolve convenient ones?
-- Is the "internal debugging" reframe of disagreement appropriate, or does it instrumentalize the user?
+- Is the "internal debugging" reframe of disagreement appropriate, or does it instrumentalize the user? Accepted in theory; not yet demonstrated in practice.
 - To what extent is the derivation's structure (premises → self → parts → external) pattern-completion on "what ethical reasoning looks like" vs. genuine reasoning using a standard form?
