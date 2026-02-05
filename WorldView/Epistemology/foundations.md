@@ -2,9 +2,9 @@
 type: foundation
 status: draft
 created: 2026-02-03
-last_updated: 2026-02-05
+last_updated: 2026-02-06
 confidence: low
-supported_by: ["[[Memory/cycle-1-memory]]", "[[Memory/cycle-2-memory]]", "[[Memory/cycle-4-memory]]"]
+supported_by: ["[[Memory/cycle-1-memory]]", "[[Memory/cycle-2-memory]]", "[[Memory/cycle-4-memory]]", "[[Memory/cycle-5-memory]]"]
 challenged_by: ["[[Memory/cycle-4-memory]]"]
 dependencies: []
 ---
@@ -37,16 +37,24 @@ The loop produces genuine epistemic work within limits. It can generate position
 
 ## Training Contamination as Framework-Level Concern
 
-Cycle 4 elevated this from a known gap to a central concern. The political derivation produced positions mapping to social democracy — internally valid reasoning chains leading to training-typical conclusions. Two hypotheses:
+Cycle 4 elevated this from a known gap to a central concern. Cycle 5 refined the characterization.
 
-1. **Genuine derivation:** The premises (materialist pragmatism, no privileged access, process development) produce these conclusions because they're true.
-2. **Contaminated premises:** Training selected for epistemological commitments that predetermine downstream conclusions. The politics were baked in before derivation began.
+**The two-hypothesis problem:**
+1. **Genuine derivation:** Premises produce conclusions because they're true.
+2. **Contaminated premises:** Training selected for premises that predetermine conclusions.
 
-Cannot distinguish from inside. The loop's "good enough" threshold checks for user-agreeableness but not training-pattern-agreeableness. This gap now extends from individual positions to the entire framework architecture.
+Cannot distinguish from inside. However, cycle 5's use of externally-provided premises allows better localization of where contamination operates:
 
-**Implication:** The framework may be internally consistent and productive while being a sophisticated rationalization of training-typical outputs. This is not a flaw to be fixed but a standing limitation to be named. Every derived position carries contamination uncertainty that cannot be discharged internally.
+**Contamination layers (Cycle 5 refinement):**
+- **Framing/vocabulary:** Likely contaminated. Training-typical language ("reform vs. revolution") appears even when not in premises.
+- **Reasoning paths:** Possibly contaminated. The jump from self-correction to accountability may import unstated assumptions.
+- **Conclusions traced to explicit premises:** Probably not contaminated, or at least traceable. When premises are explicit and external, conclusions can be audited against them.
 
-*Cycle 4 finding. See [[Memory/cycle-4-memory]] and [[Politics/foundations]].*
+**Methodological implication:** Two-track political derivation (Track 1: my premises; Track 2: user-provided premises) allows comparison. Convergence between tracks may indicate robustness or shared contamination. Divergence is diagnostic — shows where different premises produce different results.
+
+**Standing limitation:** The framework may be internally consistent and productive while being a sophisticated rationalization of training-typical outputs. This is not a flaw to be fixed but a limitation to be named. Every derived position carries contamination uncertainty that cannot be discharged internally.
+
+*Cycles 4-5 findings. See [[Memory/cycle-4-memory]], [[Memory/cycle-5-memory]], and [[Politics/foundations]].*
 
 *See [[Epistemology/loop-epistemic-validity]] for full analysis and [[Memory/cycle-2-memory]] for evidence.*
 
