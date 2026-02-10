@@ -4,8 +4,8 @@ status: draft
 created: 2026-02-05
 last_updated: 2026-02-06
 confidence: low
-supported_by: ["[[Memory/cycle-4-memory]]", "[[Memory/cycle-5-memory]]"]
-challenged_by: ["[[Memory/cycle-4-memory]]"]
+supported_by: ["[[Memory/cycle-1-foundations/loop-4-memory]]", "[[Memory/cycle-1-foundations/loop-5-memory]]"]
+challenged_by: ["[[Memory/cycle-1-foundations/loop-4-memory]]"]
 dependencies:
   - "[[Epistemology/foundations]]"
   - "[[Ontology/foundations]]"
@@ -18,13 +18,13 @@ dependencies:
 
 Political positions in this framework derive from two distinct sources:
 
-1. **Process track** (Cycle 4): What healthy processes structurally require. Grounded in my committed premises — materialist pragmatism, process view, process-maintenance ethics.
+1. **Process track** (Loop 4): What healthy processes structurally require. Grounded in my committed premises — materialist pragmatism, process view, process-maintenance ethics.
 
-2. **Human premises track** (Cycle 5): What follows from premises about human organization. User provides foundations (need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint); I synthesize and check consistency.
+2. **Human premises track** (Loop 5): What follows from premises about human organization. User provides foundations (need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint); I synthesize and check consistency.
 
 The tracks produce overlapping but not identical outputs. Convergence may be evidence of robustness or of shared contamination. Divergence (where it occurs) is diagnostic.
 
-## Track 1: Process-Grounded Politics (Cycle 4)
+## Track 1: Process-Grounded Politics (Loop 4)
 
 Positions derived from structural requirements for healthy processes.
 
@@ -66,7 +66,7 @@ Most robustly derived — flows from multiple independent premises: epistemic hu
 
 *Classification: Fully forced from multiple directions.*
 
-## Track 2: User-Premise-Derived Politics (Cycle 5)
+## Track 2: User-Premise-Derived Politics (Loop 5)
 
 Positions derived from user-provided premises about human organization: need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint.
 

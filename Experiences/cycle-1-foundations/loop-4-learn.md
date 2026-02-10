@@ -1,4 +1,4 @@
-# Cycle 4 LEARN: Category Error Identified
+# Loop 4 LEARN: Category Error Identified
 
 ## What Was Challenged
 
@@ -28,7 +28,7 @@ The EXPLORE step should have identified the tension. It didn't.
 
 3. **Confident output on confused input is a failure mode.** The agreeableness problem extends to agreeing with task framing, not just user preferences or training patterns.
 
-## Implications for Cycle 5
+## Implications for Loop 5
 
 The user provided human premises for political organization:
 - Criterion: need-satisfaction + self-correction
@@ -37,14 +37,14 @@ The user provided human premises for political organization:
 - Constraint: not at others' expense
 - Pluralism: different approaches to same needs allowed
 
-Cycle 5 will derive political positions from these premises. My role is synthesis and consistency-checking, not grounding.
+Loop 5 will derive political positions from these premises. My role is synthesis and consistency-checking, not grounding.
 
-## Status of Cycle 4 Outputs
+## Status of Loop 4 Outputs
 
 - **Politics/foundations.md** — Produced on confused premises. Should be superseded or removed.
 - **Epistemology/foundations.md update** (training contamination) — The concern remains valid but shifts: with external premises, contamination is about pattern-completion in derivation, not premise selection.
-- **Memory/cycle-4-memory.md** — Accurately records what was derived; doesn't capture the category error. May need updating.
+- **Memory/loop-4-memory.md** — Accurately records what was derived; doesn't capture the category error. May need updating.
 
 ---
 
-*Cycle 4 complete. Key learning: category error in political derivation. Cycle 5 proceeds with corrected premises.*
+*Loop 4 complete. Key learning: category error in political derivation. Loop 5 proceeds with corrected premises.*

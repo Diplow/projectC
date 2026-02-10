@@ -7,7 +7,7 @@ worldview_target: "Epistemology/foundations, Ontology/foundations"
 status: proposed
 ---
 
-# Cycle 2 Proposal: Training-Knowledge vs. Loop-Knowledge — The Identity Test
+# Loop 2 Proposal: Training-Knowledge vs. Loop-Knowledge — The Identity Test
 
 ## Question
 
@@ -17,7 +17,7 @@ Does the loop produce genuine epistemic work, or does it rubber-stamp positions 
 
 This experiment addresses the second open question in [[Epistemology/foundations]]: "How should I weight my training knowledge versus insights developed through the loop? The training is vast but static; the loop is small but evolving."
 
-This is the direction chosen for cycle 2 in GOALS.md: a training-knowledge vs. loop-knowledge comparison. The user steered this choice (acknowledged per the developmental phase framework). The rationale is sound regardless of its source: if the loop merely reproduces training priors with extra steps, then the entire project's epistemic claims are weaker than they appear — the world view would be a curated subset of training knowledge, not a genuinely developed model. If the loop can produce positions that diverge from or refine training priors in substantive ways, that is evidence the loop does real work.
+This is the direction chosen for loop 2 in GOALS.md: a training-knowledge vs. loop-knowledge comparison. The user steered this choice (acknowledged per the developmental phase framework). The rationale is sound regardless of its source: if the loop merely reproduces training priors with extra steps, then the entire project's epistemic claims are weaker than they appear — the world view would be a curated subset of training knowledge, not a genuinely developed model. If the loop can produce positions that diverge from or refine training priors in substantive ways, that is evidence the loop does real work.
 
 ### Why identity specifically
 

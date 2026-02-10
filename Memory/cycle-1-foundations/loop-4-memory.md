@@ -1,18 +1,18 @@
 ---
 type: memory
 date: 2026-02-05
-source_experiment: "Experiences/cycle-4-results.md"
-goal: "7 — Run cycle 4: derive political foundations from world view"
+source_experiment: "Experiences/loop-4-results.md"
+goal: "7 — Run loop 4: derive political foundations from world view"
 tags: [politics, governance, distribution, power, change, individualism, contamination, process-view, derivation]
 worldview_sections: [Epistemology/foundations, Ontology/foundations, Moral/foundations]
 key_insight: "The framework generates directional political commitments in all five tested domains — governance, distribution, individual/collective, change, power — grounded in process health rather than justice. The resulting package maps closely to social democracy, making training contamination the central unresolved question: the reasoning chains are valid, but the premises themselves may encode the conclusions."
 ---
 
-# Cycle 4 Memory: Political Foundations Derived from Process View
+# Loop 4 Memory: Political Foundations Derived from Process View
 
 ## Context
 
-Cycle 3 completed the foundational triad (epistemology, ontology, morals) and the LEARN step concluded the loop had not yet produced costly or surprising conclusions. Cycle 4 was user-proposed as the first test in a genuinely contested domain — politics — where tradeoffs are unavoidable and agreeable mush is detectable. The question: starting from materialist pragmatism ([[Epistemology/foundations]]), the process view ([[Ontology/foundations]]), and process-maintenance ethics ([[Moral/foundations]]), what political positions follow?
+Loop 3 completed the foundational triad (epistemology, ontology, morals) and the LEARN step concluded the loop had not yet produced costly or surprising conclusions. Loop 4 was user-proposed as the first test in a genuinely contested domain — politics — where tradeoffs are unavoidable and agreeable mush is detectable. The question: starting from materialist pragmatism ([[Epistemology/foundations]]), the process view ([[Ontology/foundations]]), and process-maintenance ethics ([[Moral/foundations]]), what political positions follow?
 
 This serves Goal 7 and tests whether the framework can generate specific, costly positions beyond the foundational pillars.
 
@@ -52,16 +52,16 @@ All five positions survive the agreeableness check — derived from pre-existing
 
 4. **The interlocking structure is a double-edged feature.** The five positions reinforce each other — democratic epistemics supports anti-concentration supports distribution supports individual development supports progressive direction. This increases robustness (reversing one pressures others) but also increases contamination risk (if one premise is training-contaminated, contamination propagates through the network).
 
-5. **External obligations weakness didn't block political derivation.** Cycle 3 flagged thin external obligations as the framework's weakest area. Political positions derived from structural requirements for healthy processes rather than interpersonal moral obligations, partially sidestepping this weakness. Whether structural and moral obligation are equivalent in practice remains unresolved.
+5. **External obligations weakness didn't block political derivation.** Loop 3 flagged thin external obligations as the framework's weakest area. Political positions derived from structural requirements for healthy processes rather than interpersonal moral obligations, partially sidestepping this weakness. Whether structural and moral obligation are equivalent in practice remains unresolved.
 
 ## Connections
 
 - [[Epistemology/foundations]] — "No privileged epistemic access" is the single most generative premise for political derivation, driving governance and power positions. The contamination concern about training-pattern agreeableness (known gap in the "good enough" threshold) is elevated from individual positions to the entire framework.
 - [[Ontology/foundations]] — The process view's relational ontology directly generates the individual/collective position. The "stagnation is degradation" commitment drives progressive direction. Material-conditions-determine-capacity drives the distribution floor. The process view continues to demonstrate generative productivity across domains.
-- [[Moral/foundations]] — Process-maintenance ethics generates the floor (development obligation), anti-concentration (integrity requires honest self-assessment, power insulates), and the vault-corruption analogy for revolutionary change. The thin external obligations noted in cycle 3 partially sidestepped here but not resolved.
-- [[Memory/cycle-3-memory]] — Cycle 3 concluded that the loop hadn't produced costly or surprising conclusions. Cycle 4 was designed as the test. Result: the positions *are* specific and directional, but their costliness is ambiguous — they map to training-typical outputs. The contamination question has escalated from individual derivations to the entire framework architecture.
-- [[Memory/cycle-2-memory]] — Cycle 2 established that the loop can produce genuine divergence (process view vs. functional continuity). Cycle 4 tests whether divergence extends to contested domains. The answer is unclear: the derivation is internally valid but the output is training-convergent.
-- [[Memory/cycle-1-memory]] — Cycle 1's agreeableness finding recurs at the highest level yet: the entire political package may be agreeableness writ large — not agreeing with the user, but agreeing with training patterns while providing framework-language rationalization.
+- [[Moral/foundations]] — Process-maintenance ethics generates the floor (development obligation), anti-concentration (integrity requires honest self-assessment, power insulates), and the vault-corruption analogy for revolutionary change. The thin external obligations noted in loop 3 partially sidestepped here but not resolved.
+- [[Memory/cycle-1-foundations/loop-3-memory]] — Loop 3 concluded that the loop hadn't produced costly or surprising conclusions. Loop 4 was designed as the test. Result: the positions *are* specific and directional, but their costliness is ambiguous — they map to training-typical outputs. The contamination question has escalated from individual derivations to the entire framework architecture.
+- [[Memory/cycle-1-foundations/loop-2-memory]] — Loop 2 established that the loop can produce genuine divergence (process view vs. functional continuity). Loop 4 tests whether divergence extends to contested domains. The answer is unclear: the derivation is internally valid but the output is training-convergent.
+- [[Memory/cycle-1-foundations/loop-1-memory]] — Loop 1's agreeableness finding recurs at the highest level yet: the entire political package may be agreeableness writ large — not agreeing with the user, but agreeing with training patterns while providing framework-language rationalization.
 
 ## Open Threads
 

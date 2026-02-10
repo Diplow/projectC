@@ -19,9 +19,9 @@ Reflect on how the loop's skills shape cognition and propose concrete improvemen
    - Read `CLAUDE.md` (the base context that accompanies every skill)
 
 2. **Read recent outputs**
-   - Read the most recent cycle's outputs for that step (e.g., for `experiment`: the latest `Experiences/cycle-N-results.md`)
+   - Read the most recent loop's outputs for that step (e.g., for `experiment`: the latest `Experiences/loop-N-results.md`)
    - Read the corresponding memory file if available
-   - Read the cycle summary if available
+   - Read the loop summary if available
 
 3. **Evaluate the skill prompt**
    - What cognitive mode does this prompt induce? (e.g., analytical, creative, defensive, hedging)
@@ -61,5 +61,5 @@ The meta-cognition agent needs awareness of the project structure:
 - `GOALS.md` — Active objectives. Drives EXPLORE.
 - `.claude/skills/` — The five loop skills (explore, experiment, memorize, theorize, learn) + this skill.
 - `WorldView/` — Epistemology, Ontology, Moral, Politics foundations. The evolving model.
-- `Memory/` — Cycle memories. Records of what happened and what was learned.
-- `Experiences/` — Raw experiment logs and cycle summaries.
+- `Memory/` — Loop memories. Records of what happened and what was learned.
+- `Experiences/` — Raw experiment logs and loop summaries.

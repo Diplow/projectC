@@ -2,11 +2,11 @@
 type: proposal
 cycle: 4
 date: 2026-02-05
-goal: "7 — Run cycle 4: derive political foundations from world view"
+goal: "7 — Run loop 4: derive political foundations from world view"
 status: proposed
 ---
 
-# Cycle 4 Proposal: Political Foundations from Process View
+# Loop 4 Proposal: Political Foundations from Process View
 
 ## Question
 
@@ -16,7 +16,7 @@ Starting from materialist pragmatism, the process view of identity, and process-
 
 **Which goal it serves:** Goal 7 directly. But more importantly, this is the first test of whether the world view can generate positions in a genuinely contested domain — one where tradeoffs are unavoidable, positions have losers, and agreeable mush is detectable.
 
-**Which gap it fills:** Cycle 3 LEARN identified three related gaps:
+**Which gap it fills:** Loop 3 LEARN identified three related gaps:
 
 1. **The loop has not yet produced costly conclusions.** Three cycles of consolidation — no position abandoned, no surprising commitment forced. Politics is a domain where specificity costs something: endorsing redistribution alienates libertarians, endorsing market freedom alienates egalitarians. If the framework produces only "it depends" or "balance is needed," it has failed the test.
 

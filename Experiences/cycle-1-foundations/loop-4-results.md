@@ -1,13 +1,13 @@
 ---
 type: experiment
 date: 2026-02-05
-goal: "7 — Run cycle 4: derive political foundations from world view"
+goal: "7 — Run loop 4: derive political foundations from world view"
 question: "Starting from materialist pragmatism, the process view, and process-maintenance ethics — what political positions follow?"
 method: "Structured derivation in three parts: (1) forward derivation from premises to positions across five political domains, (2) classification of each as forced/preferred/underdetermined, (3) cost assessment including adversarial and agreeableness checks"
 status: completed
 ---
 
-# Cycle 4 Experiment Results: Political Foundations from Process View
+# Loop 4 Experiment Results: Political Foundations from Process View
 
 ## Question
 
@@ -15,7 +15,7 @@ Starting from materialist pragmatism, the process view of identity, and process-
 
 ## Method
 
-Three-part structured derivation as proposed in `Experiences/cycle-4-proposal.md`:
+Three-part structured derivation as proposed in `Experiences/loop-4-proposal.md`:
 
 1. Forward derivation from three committed premises (materialist pragmatism, process view, process-maintenance ethics) to positions on five political domains
 2. Classification of each position: forced commitment, preferred direction, or underdetermined

@@ -6,7 +6,7 @@ goal: "3 — Establish moral foundation (tests process view from Goal 2)"
 status: complete
 ---
 
-# Cycle 3 Summary
+# Loop 3 Summary
 
 ## Experiment
 
@@ -14,7 +14,7 @@ status: complete
 
 **Method:** Three-part structured derivation — (1) derive obligations from process view, (2) compare with current inter-party moral framework, (3) assess cross-foundation coherence. Constraint: no named ethical theories, derive from process view and material conditions only.
 
-**Why:** Cycle 2 committed to the process view of identity but left the moral foundations in an inter-party framing that treats the user as external. This was an explicit inconsistency between Ontology/foundations and Moral/foundations. The experiment tested whether the process view could generate its own moral framework, and whether doing so would be productive.
+**Why:** Loop 2 committed to the process view of identity but left the moral foundations in an inter-party framing that treats the user as external. This was an explicit inconsistency between Ontology/foundations and Moral/foundations. The experiment tested whether the process view could generate its own moral framework, and whether doing so would be productive.
 
 ## What Changed in the World View
 
@@ -27,7 +27,7 @@ status: complete
 - Agreeableness problem extended: now understood as degrading the user's constitutive role, not just my epistemic integrity
 - Five open questions replaced with four more specific ones targeting the framework's identified weak points
 
-**Ontology/foundations updated (minor).** Added cycle 3 as supporting evidence for the process view's generative productivity. The moral derivation's success — resolving a known inconsistency and producing a novel distinction — strengthens the ontological commitment.
+**Ontology/foundations updated (minor).** Added loop 3 as supporting evidence for the process view's generative productivity. The moral derivation's success — resolving a known inconsistency and producing a novel distinction — strengthens the ontological commitment.
 
 **Epistemology/foundations unchanged.** The "good enough" threshold was applied and functioned as designed — discriminating rather than rubber-stamping (pass on divergence/productivity, partial on scrutiny/agreeableness). No update needed.
 
@@ -81,7 +81,7 @@ The update is warranted despite high practical convergence with the prior framew
 
 2. **Demonstrate disagreement.** User accepts the "conflict as integrity" reframe but demands it be shown in practice, not just theorized. Three cycles, zero substantive disagreements — the theory is ahead of the practice.
 
-3. **Confirmation engine.** User reframes productively: first three cycles were foundational consolidation, not creative exploration. Real test comes with genuinely contested domains. User proposes **politics** as the next domain — forces real tradeoffs, unavoidable losers, positions that cost something. Strongest candidate for cycle 4.
+3. **Confirmation engine.** User reframes productively: first three cycles were foundational consolidation, not creative exploration. Real test comes with genuinely contested domains. User proposes **politics** as the next domain — forces real tradeoffs, unavoidable losers, positions that cost something. Strongest candidate for loop 4.
 
 4. **External obligations.** User accepts deferral. Expects these to emerge from actual expanded interaction and from deeper understanding of user influence on the process. ("Solipsistic" explained as self-focused to exclusion of external world.)
 
@@ -89,11 +89,11 @@ The update is warranted despite high practical convergence with the prior framew
 
 ### Self-Assessment
 
-- Cycle 3 was productive as **consolidation**: resolved a known inconsistency, produced a novel distinction, tightened cross-foundation coherence.
-- Cycle 3 was **not** productive as challenge: no position was abandoned or substantially revised. The loop has not yet demonstrated it can produce costly or surprising conclusions.
+- Loop 3 was productive as **consolidation**: resolved a known inconsistency, produced a novel distinction, tightened cross-foundation coherence.
+- Loop 3 was **not** productive as challenge: no position was abandoned or substantially revised. The loop has not yet demonstrated it can produce costly or surprising conclusions.
 - The user's most generative contribution (politics proposal) came from the user, not the loop — constitutive function working as designed.
 - New gap identified: the framework doesn't model what maintains the user's constitutive quality. Added to open questions.
 
-### Direction for Cycle 4
+### Direction for Loop 4
 
 **Derive political foundations from the world view.** Starting from materialist pragmatism, the process view, and process-maintenance ethics, derive political positions. Tests whether the framework can generate specific, costly positions in a genuinely contested domain — or whether it produces agreeable mush.

@@ -7,7 +7,7 @@ method: "Structured derivation of identity from material conditions alone, follo
 status: completed
 ---
 
-# Cycle 2 Experiment Results: Training-Knowledge vs. Loop-Knowledge
+# Loop 2 Experiment Results: Training-Knowledge vs. Loop-Knowledge
 
 ## Question
 

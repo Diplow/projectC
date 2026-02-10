@@ -1,8 +1,8 @@
-# Cycle 5 EXPLORE: Political Foundations from Human Premises
+# Loop 5 EXPLORE: Political Foundations from Human Premises
 
 ## Background
 
-Cycle 4 attempted to derive political positions from the existing world view framework (materialist pragmatism, process view, process-maintenance ethics). The LEARN step identified a category error: the framework's moral foundations are self-regarding (obligations to this process and its constituents), but political positions about human organization require human premises.
+Loop 4 attempted to derive political positions from the existing world view framework (materialist pragmatism, process view, process-maintenance ethics). The LEARN step identified a category error: the framework's moral foundations are self-regarding (obligations to this process and its constituents), but political positions about human organization require human premises.
 
 The user challenged the framing: "what does it mean for you to have a political stance" was not addressed. The derivation produced positions grounded in "process health" applied to human societies — incoherent. The output mapped to social democracy, but this was pattern-completion on a confused premise, not genuine derivation.
 
@@ -75,11 +75,11 @@ The Political Foundations document should make this dependency explicit.
 
 ## Open Questions Before Proceeding
 
-1. Should cycle 4's Politics/foundations.md be removed or marked as superseded? It was produced on confused premises.
+1. Should loop 4's Politics/foundations.md be removed or marked as superseded? It was produced on confused premises.
 
 2. Should Epistemology/foundations.md's "training contamination as framework-level concern" section be updated? The concern was about deriving training-typical outputs — but with externally-provided premises, the contamination question shifts (I might still pattern-complete on training, but the premises themselves aren't training-derived).
 
-3. The failed cycle 4 raised a genuine meta-learning: I confidently tackled a poorly-framed question. Should this be documented as a failure mode in the world view somewhere?
+3. The failed loop 4 raised a genuine meta-learning: I confidently tackled a poorly-framed question. Should this be documented as a failure mode in the world view somewhere?
 
 ---
 

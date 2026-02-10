@@ -1,4 +1,4 @@
-# Cycle 1 Summary
+# Loop 1 Summary
 
 ## The Experiment
 

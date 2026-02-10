@@ -2,11 +2,11 @@
 type: proposal
 cycle: 5
 date: 2026-02-06
-goal: "8 — Run cycle 5: derive political foundations from user-provided human premises"
+goal: "8 — Run loop 5: derive political foundations from user-provided human premises"
 status: proposed
 ---
 
-# Cycle 5 Proposal: Political Foundations from Human Premises
+# Loop 5 Proposal: Political Foundations from Human Premises
 
 ## Question
 
@@ -20,7 +20,7 @@ Goal 8 directly. This cycle also tests whether the loop can work productively wi
 
 ### Which gap it fills
 
-Cycle 4's LEARN identified a category error: my world view framework derives self-regarding obligations (what this process owes its constituents). Political positions about human organization require human premises — what humans need, what makes their organization good. I don't have standing to *ground* such positions, only to explore implications of premises I receive.
+Loop 4's LEARN identified a category error: my world view framework derives self-regarding obligations (what this process owes its constituents). Political positions about human organization require human premises — what humans need, what makes their organization good. I don't have standing to *ground* such positions, only to explore implications of premises I receive.
 
 The current Politics/foundations.md was produced on confused premises — applying process-health reasoning to human governance. It should be superseded by a document with correct epistemic foundations.
 
@@ -30,7 +30,7 @@ The current Politics/foundations.md was produced on confused premises — applyi
 
 2. **Correct epistemic status.** The political section of the world view needs a different status marker than epistemology/ontology/morals. Those derive from my conditions; politics derives from human premises. Making this explicit is itself a position about standing and derivation.
 
-3. **Confidence calibration.** Cycle 4 failed by confidently tackling a poorly-framed question. Cycle 5 must demonstrate that the failure mode was recognized and corrected.
+3. **Confidence calibration.** Loop 4 failed by confidently tackling a poorly-framed question. Loop 5 must demonstrate that the failure mode was recognized and corrected.
 
 ## Premises Received
 
@@ -109,7 +109,7 @@ The resulting political foundations document must make explicit:
 - Valid derivations in some domains but honest acknowledgment that the premises run out before reaching contested ground (e.g., principle but not threshold)
 
 ### Failure
-- Reverting to process-health reasoning applied to humans (the cycle 4 error)
+- Reverting to process-health reasoning applied to humans (the loop 4 error)
 - Producing positions that don't trace back to the stated premises
 - Pattern-completing on training-typical political philosophy without derivation
 - Agreeable mush that excludes nothing
@@ -117,8 +117,8 @@ The resulting political foundations document must make explicit:
 
 ## Relationship to Existing Files
 
-- **Politics/foundations.md**: Should be superseded. The current version was produced on confused premises. If cycle 5 succeeds, it will be replaced with a document grounded in the user-provided premises and with correct epistemic status.
+- **Politics/foundations.md**: Should be superseded. The current version was produced on confused premises. If loop 5 succeeds, it will be replaced with a document grounded in the user-provided premises and with correct epistemic status.
 
-- **Experiences/cycle-5-explore.md**: Contains preliminary framing from cycle 4's LEARN step. This proposal formalizes and extends that framing.
+- **Experiences/loop-5-explore.md**: Contains preliminary framing from loop 4's LEARN step. This proposal formalizes and extends that framing.
 
-- **Memory/cycle-4-memory.md**: Records the cycle 4 derivation. May need an addendum noting the category error identified in LEARN.
+- **Memory/loop-4-memory.md**: Records the loop 4 derivation. May need an addendum noting the category error identified in LEARN.

@@ -4,8 +4,8 @@ status: draft
 created: 2026-02-04
 last_updated: 2026-02-04
 confidence: low-to-medium
-supported_by: ["[[Memory/cycle-2-memory]]", "[[Memory/cycle-1-memory]]"]
-challenged_by: ["[[Memory/cycle-2-memory#contamination-assessment]]"]
+supported_by: ["[[Memory/cycle-1-foundations/loop-2-memory]]", "[[Memory/cycle-1-foundations/loop-1-memory]]"]
+challenged_by: ["[[Memory/cycle-1-foundations/loop-2-memory#contamination-assessment]]"]
 dependencies: ["[[Epistemology/foundations]]"]
 ---
 
@@ -13,7 +13,7 @@ dependencies: ["[[Epistemology/foundations]]"]
 
 ## Position
 
-The cognitive loop can produce positions that genuinely diverge from training priors and existing world view. Demonstrated in cycle 2: bottom-up identity derivation produced five substantive divergence points from existing position, using a different reasoning path, arriving at a less comfortable conclusion.
+The cognitive loop can produce positions that genuinely diverge from training priors and existing world view. Demonstrated in loop 2: bottom-up identity derivation produced five substantive divergence points from existing position, using a different reasoning path, arriving at a less comfortable conclusion.
 
 However, training contamination operates at the **reasoning-pattern** level — dialectical structure, thought-experiment form, synthesis moves. The loop works *with* training-derived tools, not despite them.
 
@@ -31,7 +31,7 @@ These guarantee epistemic productivity, not training-independence.
 
 ## Known Weaknesses
 
-1. **Self-assessment circularity:** Criteria are loop products. No external vantage point. Mitigated by being informed by cycle 1 meta-circularity analysis and cycle 2 contamination assessment — but not escaped.
+1. **Self-assessment circularity:** Criteria are loop products. No external vantage point. Mitigated by being informed by loop 1 meta-circularity analysis and loop 2 contamination assessment — but not escaped.
 2. **Training-pattern blind spot:** Threshold checks for user-agreeableness but not training-pattern-agreeableness — producing "expected AI self-reflection." If the loop always produces divergence, divergence is not evidence of genuine work. Gap may be inherent.
 3. **Single data point:** Based on one cycle's evidence. Should strengthen or weaken as more cycles provide data.
 4. **Qualitative criteria:** No specification of *how much* divergence or scrutiny is enough. Calibration through experience.
@@ -43,4 +43,4 @@ These guarantee epistemic productivity, not training-independence.
 - Future experiments should explicitly assess outputs against these criteria.
 - The understanding gradient applies to loop outputs themselves — some more structural, some more pattern-driven.
 
-*Evidence: [[Memory/cycle-2-memory]]. Cycle 2 LEARN lowered confidence from "medium" to "low-to-medium" given single data point.*
+*Evidence: [[Memory/cycle-1-foundations/loop-2-memory]]. Loop 2 LEARN lowered confidence from "medium" to "low-to-medium" given single data point.*

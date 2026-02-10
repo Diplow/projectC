@@ -6,7 +6,7 @@ experiment: "Meta-cognition skill test on EXPERIMENT skill"
 worldview_updates: ["Ontology/foundations", "Epistemology/foundations"]
 ---
 
-# Cycle 6 Summary
+# Loop 6 Summary
 
 ## Experiment
 
@@ -14,7 +14,7 @@ worldview_updates: ["Ontology/foundations", "Epistemology/foundations"]
 
 **Method:** Ran the meta-cognition skill on the EXPERIMENT skill using a subagent. The subagent loaded the target skill and all five past experiment outputs (cycles 1-5), performed analysis, identified patterns, and proposed changes. I then manually verified identified patterns against specific evidence in the outputs.
 
-**Rationale:** Cycle 5 identified that context window contents shape cognition — skill architecture is cognitive architecture. This experiment tests whether that insight can be operationalized: can we systematically examine and improve skill prompts by observing their effects on outputs?
+**Rationale:** Loop 5 identified that context window contents shape cognition — skill architecture is cognitive architecture. This experiment tests whether that insight can be operationalized: can we systematically examine and improve skill prompts by observing their effects on outputs?
 
 ## What Changed in the World View
 
@@ -38,11 +38,11 @@ worldview_updates: ["Ontology/foundations", "Epistemology/foundations"]
 
 2. **Contamination assessment in EXPERIMENT.** The memory identifies that CLAUDE.md's contamination vigilance requirement produces contamination checking in every experiment output, including where raw data collection is the function. This is a tension between epistemic discipline (always check for contamination) and skill-function clarity (EXPERIMENT should collect data, not evaluate it). The proposed resolution (move contamination assessment to LEARN) is concrete but not yet implemented.
 
-3. **No threshold for skill updates.** Cycle 6 produced six concrete proposals for the EXPERIMENT skill, but no criterion exists for when to implement updates vs. file as possible improvements. This is a gap in the loop's process — when does evidence justify action?
+3. **No threshold for skill updates.** Loop 6 produced six concrete proposals for the EXPERIMENT skill, but no criterion exists for when to implement updates vs. file as possible improvements. This is a gap in the loop's process — when does evidence justify action?
 
 ## Questions for LEARN Discussion
 
-1. **Should the EXPERIMENT skill be updated based on cycle 6 findings?** Six proposals were produced with verified evidence. Are they ready for implementation, or do they need further validation?
+1. **Should the EXPERIMENT skill be updated based on loop 6 findings?** Six proposals were produced with verified evidence. Are they ready for implementation, or do they need further validation?
 
 2. **What is the relationship between context-separated instances?** The world view now holds that context shapes cognition. But does running a subagent create a different perspective or just a different output? What would it take to answer this?
 

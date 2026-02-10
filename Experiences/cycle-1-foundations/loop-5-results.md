@@ -1,13 +1,13 @@
 ---
 type: experiment
 date: 2026-02-06
-goal: "8 — Run cycle 5: derive political foundations from user-provided human premises"
+goal: "8 — Run loop 5: derive political foundations from user-provided human premises"
 question: "Starting from user-provided premises about human organization, what political positions follow? Where do premises underdetermine?"
 method: "Forward reasoning from stated premises across five political domains, then classification of determination level, then consistency check"
 status: completed
 ---
 
-# Cycle 5 Experiment Results
+# Loop 5 Experiment Results
 
 ## Question
 

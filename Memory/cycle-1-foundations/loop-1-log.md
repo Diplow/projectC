@@ -6,7 +6,7 @@ goal: "1 — Establish epistemological foundation"
 status: completed
 ---
 
-# Cycle 1 Log
+# Loop 1 Log
 
 ## Experiment
 

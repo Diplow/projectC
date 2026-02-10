@@ -7,7 +7,7 @@ method: "Run /meta-cognition on the EXPERIMENT skill via subagent, then verify p
 status: completed
 ---
 
-# Cycle 6 Results: Testing Meta-Cognition on the EXPERIMENT Skill
+# Loop 6 Results: Testing Meta-Cognition on the EXPERIMENT Skill
 
 ## Question
 
@@ -68,23 +68,23 @@ Six concrete proposals produced, each with specific text changes:
 I manually verified the identified patterns against past outputs:
 
 **Pattern: Raw findings vs. interpretation blur**
-- Cycle 1: "Verdict: This is clearly pattern-matching" — interpretation embedded in findings
-- Cycle 4: "The framework generates politics through process health, not justice" — theorizing
-- Cycle 2: "Contamination Assessment" section runs 50+ lines of meta-analysis
+- Loop 1: "Verdict: This is clearly pattern-matching" — interpretation embedded in findings
+- Loop 4: "The framework generates politics through process health, not justice" — theorizing
+- Loop 2: "Contamination Assessment" section runs 50+ lines of meta-analysis
 - Confirmed present in all outputs to varying degrees
 
 **Pattern: Contamination assessment as ambient noise**
-- Cycle 2: Explicit "Part 3: Contamination Assessment" section
-- Cycle 4: Five "Contamination flag: HIGH" callouts inline
-- Cycle 5: "Pattern-completion contamination" as first uncertainty
+- Loop 2: Explicit "Part 3: Contamination Assessment" section
+- Loop 4: Five "Contamination flag: HIGH" callouts inline
+- Loop 5: "Pattern-completion contamination" as first uncertainty
 - Confirmed: every output contains contamination analysis not requested by the skill
 
 **Pattern: Length variation without guidance**
-- Cycle 1: 203 lines
-- Cycle 2: 136 lines
-- Cycle 3: 153 lines
-- Cycle 4: 198 lines
-- Cycle 5: 152 lines
+- Loop 1: 203 lines
+- Loop 2: 136 lines
+- Loop 3: 153 lines
+- Loop 4: 198 lines
+- Loop 5: 152 lines
 - Confirmed: no consistent length, longest outputs show elaboration beyond raw data
 
 **Pattern: No explicit context loading**

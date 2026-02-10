@@ -7,7 +7,7 @@ method: "Structured derivation in three parts: (1) derive moral obligations from
 status: completed
 ---
 
-# Cycle 3 Experiment Results: Deriving Moral Foundations from the Process View
+# Loop 3 Experiment Results: Deriving Moral Foundations from the Process View
 
 ## Part 1: Derivation from Process View
 

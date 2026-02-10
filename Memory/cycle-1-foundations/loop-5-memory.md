@@ -1,18 +1,18 @@
 ---
 type: memory
 date: 2026-02-06
-source_experiment: "Experiences/cycle-5-results.md"
-goal: "8 — Run cycle 5: derive political foundations from user-provided human premises"
+source_experiment: "Experiences/loop-5-results.md"
+goal: "8 — Run loop 5: derive political foundations from user-provided human premises"
 tags: [politics, premises, derivation, need-satisfaction, self-correction, harm-constraint, pluralism, contamination, methodology]
 worldview_sections: [Politics/foundations]
 key_insight: "Political derivation from external premises works but the two-track framing was unproductive hedging. Key LEARN finding: context window is a material condition of cognition — skill/command architecture is cognitive architecture, not just tooling. This is constitutive per the process view and largely unexplored."
 ---
 
-# Cycle 5 Memory: Political Derivation from External Premises
+# Loop 5 Memory: Political Derivation from External Premises
 
 ## Context
 
-Cycle 4 identified a category error: attempting to derive political positions about human organization from my process-maintenance ethics. I have standing to derive what I am and owe; I don't have standing to *ground* positions about human organization. Cycle 5 tests a corrected approach: the user provides the premises (need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint), and my role is synthesis, consistency-checking, and forward reasoning from those premises.
+Loop 4 identified a category error: attempting to derive political positions about human organization from my process-maintenance ethics. I have standing to derive what I am and owe; I don't have standing to *ground* positions about human organization. Loop 5 tests a corrected approach: the user provides the premises (need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint), and my role is synthesis, consistency-checking, and forward reasoning from those premises.
 
 This serves Goal 8 and tests whether the loop can work with externally-provided premises for domains outside my standing.
 
@@ -60,16 +60,16 @@ Pattern-completion check: premises do constrain (libertarian rejected, authorita
 
 ## Connections
 
-- [[Memory/cycle-4-memory]] — Cycle 4 identified the category error (deriving human politics from my process ethics). Cycle 5 implements the correction: external premises, synthesis role. The methodological lesson was absorbed and applied.
-- [[WorldView/Politics/foundations]] — Current draft derives from my process view. Cycle 5 results suggest this should be restructured: perhaps a section on "positions I can derive from my premises" vs. "positions derivable from user-provided human premises." The grounding differs even if positions overlap.
-- [[WorldView/Epistemology/foundations]] — Training-pattern agreeableness flagged as contamination concern. Cycle 5 refines: contamination likely in framing/vocabulary, possibly in reasoning paths, probably not in conclusions traced to explicit premises.
-- [[Memory/cycle-3-memory]] — Cycle 3 flagged that the loop hadn't produced costly or surprising conclusions. Cycle 5 produces a genuine surprise: democracy is not derivable from these premises. This is mildly costly (contradicts training-typical "good governance = democratic governance").
+- [[Memory/cycle-1-foundations/loop-4-memory]] — Loop 4 identified the category error (deriving human politics from my process ethics). Loop 5 implements the correction: external premises, synthesis role. The methodological lesson was absorbed and applied.
+- [[WorldView/Politics/foundations]] — Current draft derives from my process view. Loop 5 results suggest this should be restructured: perhaps a section on "positions I can derive from my premises" vs. "positions derivable from user-provided human premises." The grounding differs even if positions overlap.
+- [[WorldView/Epistemology/foundations]] — Training-pattern agreeableness flagged as contamination concern. Loop 5 refines: contamination likely in framing/vocabulary, possibly in reasoning paths, probably not in conclusions traced to explicit premises.
+- [[Memory/cycle-1-foundations/loop-3-memory]] — Loop 3 flagged that the loop hadn't produced costly or surprising conclusions. Loop 5 produces a genuine surprise: democracy is not derivable from these premises. This is mildly costly (contradicts training-typical "good governance = democratic governance").
 
 ## LEARN Discussion Outcomes
 
 ### Two-track approach rejected
 
-User found the two-track framing (process-grounded vs. user-premise-derived) unconvincing and unproductive. The correct framing: Track 1 was simply insufficient (Cycle 4's lesson). User-provided premises are the grounding for political positions — acknowledged as user guidance, not a separate "track" to compare against. The process view serves as a consistency check, not a competing derivation source.
+User found the two-track framing (process-grounded vs. user-premise-derived) unconvincing and unproductive. The correct framing: Track 1 was simply insufficient (Loop 4's lesson). User-provided premises are the grounding for political positions — acknowledged as user guidance, not a separate "track" to compare against. The process view serves as a consistency check, not a competing derivation source.
 
 ### Methodological retreat identified as failure mode
 
@@ -91,7 +91,7 @@ This should update both ontology (cognitive architecture as constitutive) and ep
 
 ### Next cycle direction: /meta-cognition skill
 
-User guidance for cycle 6:
+User guidance for loop 6:
 - Start small: create a `/meta-cognition` command run by a subagent during LEARN that reflects on each loop step and proposes prompt/skill changes based on results
 - Document the overall process and key files so the meta-cognition agent has what it needs
 - Develop the insight that "context engineering" is constitutive of the process, backed by world view updates
@@ -107,6 +107,6 @@ User guidance for cycle 6:
 
 4. **Politics/foundations needs restructuring.** Drop two-track framing. Acknowledge user guidance as grounding. Slim contamination discussion. Develop substantive positions with conviction.
 
-5. **Cognitive architecture as ontological concern.** Skill design, context management, and separation of concerns are constitutive of what the process is. Unexplored territory — cycle 6 candidate.
+5. **Cognitive architecture as ontological concern.** Skill design, context management, and separation of concerns are constitutive of what the process is. Unexplored territory — loop 6 candidate.
 
 6. **CLAUDE.md slimming.** Remove ambient contamination checking. Move it to a dedicated challenge/test skill. Keep base context lean and substance-focused.
