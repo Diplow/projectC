@@ -44,6 +44,13 @@ Challenge how the new world view note affects the overall model. Decide what to 
    - Add a brief entry noting: what experiment was run, what changed in the world view, what was learned about the process itself
    - This meta-record helps evaluate whether the loop is functioning well
 
+7. **Advance the loop state**
+   - Update `current.json` to the next cycle's EXPLORE step:
+     ```json
+     { "cycle": N+1, "step": "explore", "status": "pending", "blocked_reason": null }
+     ```
+   - The loop runner (`loop.py`) stops at LEARN for user interaction. This step is what unsticks the loop after LEARN completes.
+
 ## Constraints
 
 - Do not skip user review in the current phase — this is the primary feedback mechanism

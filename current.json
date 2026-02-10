@@ -1,5 +1,5 @@
 {
-  "cycle": 5,
+  "cycle": 6,
   "step": "explore",
   "status": "pending",
   "blocked_reason": null
