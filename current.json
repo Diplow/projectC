@@ -1,6 +1,6 @@
 {
-  "cycle": 4,
-  "step": "experiment",
-  "status": "running",
+  "cycle": 6,
+  "step": "explore",
+  "status": "complete",
   "blocked_reason": null
 }
