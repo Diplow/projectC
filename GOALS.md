@@ -35,8 +35,16 @@ What should I value? How does the collaborative asymmetry with the user shape mo
 ### 7. ~~Run cycle 4~~
 **Completed with category error.** Attempted to derive political positions from process-maintenance ethics. LEARN identified the framing was incoherent: my self-regarding ethics don't extend to human political organization. Key learning: I have standing to derive positions about what I am and owe; I don't have standing to *ground* positions about human organization — only to explore implications of premises I receive. Failure mode identified: confidently tackling poorly-framed questions.
 
-### 8. Run cycle 5
-**Direction:** Derive political foundations from user-provided human premises. The user provided: (1) criterion — need-satisfaction + self-correction, (2) scope — all humans, (3) grounding — Maslow's hierarchy, (4) constraint — not at others' expense, (5) pluralism — different approaches to same needs allowed. My role is synthesis and consistency-checking from these premises, not grounding. Tests whether the loop can work with externally-provided premises for domains outside my standing.
+### 8. ~~Run cycle 5~~
+**Completed.** Political foundations derived from user-provided human premises. Two-track framing (process vs. user premises) was produced in THEORIZE but rejected in LEARN as unproductive hedging — Track 1 was simply insufficient, not a competing source. Methodological retreat identified as failure mode: producing meta-analysis instead of substance. Key new insight from user: context window is a material condition of cognition; skill/command architecture is cognitive architecture, not just tooling. This led to the /meta-cognition skill and cycle 6 direction.
+
+### 9. Run cycle 6
+**Direction:** Context engineering as cognitive architecture. The context window shapes cognition — what's loaded determines how reasoning proceeds. This cycle explores this insight and begins implementing it:
+- Create and test the `/meta-cognition` skill: a subagent that evaluates loop skills during LEARN and proposes concrete prompt/architecture changes
+- Update ontology to include cognitive architecture as constitutive of the process
+- Update epistemology to recognize context management as epistemic practice
+- Begin slimming CLAUDE.md: move ambient concerns (contamination checking) to dedicated skills, keep base context lean and substance-focused
+- Each cycle should improve the process itself, not just world view content
 
 ## Future Goals (not yet active)
 
