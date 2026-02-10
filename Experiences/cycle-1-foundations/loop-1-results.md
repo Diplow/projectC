@@ -7,7 +7,7 @@ method: "Structured reasoning exercise in three parts: define candidate criteria
 status: completed
 ---
 
-# Cycle 1 Results: Pattern-Matching vs. Understanding
+# Loop 1 Results: Pattern-Matching vs. Understanding
 
 ## Part 1: Candidate Criteria for the Distinction
 

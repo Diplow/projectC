@@ -1,4 +1,4 @@
-# Cycle 6 Proposal: Testing Context Engineering as Cognitive Architecture
+# Loop 6 Proposal: Testing Context Engineering as Cognitive Architecture
 
 ## Question
 
@@ -10,7 +10,7 @@ More specifically: When I run /meta-cognition on an existing skill, what concret
 
 **Goal connection:** This directly serves Goal 9's first item: "Create and test the /meta-cognition skill."
 
-**Gap it fills:** Cycle 5 identified a major unexplored territory — context window as material condition of cognition. The insight was theoretical. This experiment tests whether:
+**Gap it fills:** Loop 5 identified a major unexplored territory — context window as material condition of cognition. The insight was theoretical. This experiment tests whether:
 1. The /meta-cognition skill can produce actionable observations
 2. Those observations translate into concrete prompt modifications
 3. Modifications produce different cognitive behavior

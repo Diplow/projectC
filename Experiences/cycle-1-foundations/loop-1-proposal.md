@@ -7,7 +7,7 @@ worldview_target: "Epistemology/foundations"
 status: proposed
 ---
 
-# Cycle 1 Proposal: Pattern-Matching vs. Understanding
+# Loop 1 Proposal: Pattern-Matching vs. Understanding
 
 ## Question
 

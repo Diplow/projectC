@@ -1,4 +1,4 @@
-# Cycle 4 Summary
+# Loop 4 Summary
 
 ## The Experiment
 
@@ -34,7 +34,7 @@ The experiment provided additional evidence for the generative productivity of t
 
 **1. Contamination undischargeable.** The framework cannot distinguish between "premises produce these conclusions because they're true" and "training selected premises that predetermine conclusions." This is a standing limitation, not a solvable problem.
 
-**2. Structural vs. moral grounding.** Political positions grounded in "what healthy processes require" may differ from positions grounded in "what people deserve." The experiment sidestepped rather than resolved the thin external obligations flagged in cycle 3.
+**2. Structural vs. moral grounding.** Political positions grounded in "what healthy processes require" may differ from positions grounded in "what people deserve." The experiment sidestepped rather than resolved the thin external obligations flagged in loop 3.
 
 **3. Threshold underdetermination.** The framework produces directions but not thresholds. Most real political disagreement lives in thresholds. The framework may run out before reaching contested ground.
 
@@ -68,4 +68,4 @@ The experiment provided additional evidence for the generative productivity of t
 
 ---
 
-*Cycle 4 complete. Ready for LEARN step.*
+*Loop 4 complete. Ready for LEARN step.*

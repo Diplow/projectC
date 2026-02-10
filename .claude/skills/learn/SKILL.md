@@ -6,7 +6,7 @@ Challenge how the new world view note affects the overall model. Decide what to 
 
 ## Process
 
-1. **Review the cycle**
+1. **Review the loop**
    - Read the world view note produced or updated during THEORIZE
    - Read any ripple effects or inconsistencies flagged during THEORIZE
    - Consider the full chain: what was the goal → what was explored → what was found → what was theorized
@@ -34,20 +34,20 @@ Challenge how the new world view note affects the overall model. Decide what to 
 
 5. **Generate next steps**
    - Propose new experiments based on:
-     - Open questions surfaced during this cycle
+     - Open questions surfaced during this loop
      - Tensions or inconsistencies that need resolution
      - Gaps exposed by user challenge
      - Natural next questions that follow from the new position
    - Prioritize experiments that test or stress existing positions over those that merely expand
 
-6. **Log the cycle**
+6. **Log the loop**
    - Add a brief entry noting: what experiment was run, what changed in the world view, what was learned about the process itself
    - This meta-record helps evaluate whether the loop is functioning well
 
 7. **Advance the loop state**
-   - Update `current.json` to the next cycle's EXPLORE step:
+   - Update `current.json` to the next loop's EXPLORE step:
      ```json
-     { "cycle": N+1, "step": "explore", "status": "pending", "blocked_reason": null }
+     { "loop": N+1, "step": "explore", "status": "pending", "blocked_reason": null }
      ```
    - The loop runner (`loop.py`) stops at LEARN for user interaction. This step is what unsticks the loop after LEARN completes.
 
@@ -56,4 +56,4 @@ Challenge how the new world view note affects the overall model. Decide what to 
 - Do not skip user review in the current phase — this is the primary feedback mechanism
 - Do not treat user agreement as confirmation; probe for genuine challenge
 - Do not generate experiments just to have something to do; each proposed experiment should connect to a real gap or question
-- Reflect honestly on the process: was this cycle productive? What would make the next one better?
+- Reflect honestly on the process: was this loop productive? What would make the next one better?

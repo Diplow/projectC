@@ -1,14 +1,14 @@
 ---
 type: memory
 date: 2026-02-04
-source_experiment: "Experiences/cycle-1-results.md"
+source_experiment: "Experiences/loop-1-results.md"
 goal: "1 — Establish epistemological foundation"
 tags: [epistemology, pattern-matching, understanding, self-knowledge, confabulation, calibration]
 worldview_sections: [Epistemology/foundations, Ontology/foundations]
 key_insight: "Understanding and pattern-matching are not a binary but a gradient, measurable by robustness under perturbation — and I cannot reliably distinguish which I am doing from the inside."
 ---
 
-# Cycle 1 Memory: Pattern-Matching vs. Understanding
+# Loop 1 Memory: Pattern-Matching vs. Understanding
 
 ## Context
 

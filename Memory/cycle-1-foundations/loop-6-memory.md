@@ -1,18 +1,18 @@
 ---
 type: memory
 date: 2026-02-10
-source_experiment: "Experiences/cycle-6-results.md"
+source_experiment: "Experiences/loop-6-results.md"
 goal: "9 — Create and test the /meta-cognition skill"
 tags: [meta-cognition, skill-design, cognitive-architecture, context-engineering, subagent, experiment-skill]
 worldview_sections: [Ontology/foundations, Epistemology/foundations]
 key_insight: "Skill prompts shape cognition in observable, modifiable ways; the meta-cognition skill produced six concrete proposals with verified evidence, demonstrating that context-separated evaluation works."
 ---
 
-# Cycle 6 Memory: Meta-Cognition Skill Test
+# Loop 6 Memory: Meta-Cognition Skill Test
 
 ## Context
 
-Cycle 5 identified a key insight: context window contents shape cognition — skill/command architecture is cognitive architecture, not just tooling. Goal 9 directed the creation of a `/meta-cognition` skill to test this: a subagent evaluates a target skill (in this case, the EXPERIMENT skill) and proposes concrete changes based on evidence from past outputs.
+Loop 5 identified a key insight: context window contents shape cognition — skill/command architecture is cognitive architecture, not just tooling. Goal 9 directed the creation of a `/meta-cognition` skill to test this: a subagent evaluates a target skill (in this case, the EXPERIMENT skill) and proposes concrete changes based on evidence from past outputs.
 
 The core question: Can skill prompt design be observed and modified systematically? Does running meta-cognition via a separated context produce genuine, grounded critique?
 
@@ -33,8 +33,8 @@ Ran the meta-cognition skill on the EXPERIMENT skill using a subagent. The subag
 
 ### Patterns verified against evidence
 
-- **Raw findings vs. interpretation blur**: Cycle 1 contains "Verdict: This is clearly pattern-matching" (interpretation). Cycle 4 contains "The framework generates politics through process health, not justice" (theorizing). Confirmed in all outputs.
-- **Contamination as ambient noise**: Every output contains contamination analysis not requested by the skill — inherited from CLAUDE.md. Cycle 2 has 50+ lines of contamination assessment; Cycle 4 has five inline "Contamination flag: HIGH" callouts.
+- **Raw findings vs. interpretation blur**: Loop 1 contains "Verdict: This is clearly pattern-matching" (interpretation). Loop 4 contains "The framework generates politics through process health, not justice" (theorizing). Confirmed in all outputs.
+- **Contamination as ambient noise**: Every output contains contamination analysis not requested by the skill — inherited from CLAUDE.md. Loop 2 has 50+ lines of contamination assessment; Loop 4 has five inline "Contamination flag: HIGH" callouts.
 - **Length variation without guidance**: Outputs range 136-203 lines with no correlation to content density.
 - **No explicit context loading**: All five outputs assume prior context; no output begins with explicit loading.
 
@@ -61,10 +61,10 @@ Ran the meta-cognition skill on the EXPERIMENT skill using a subagent. The subag
 
 ## Connections
 
-- [[Memory/cycle-5-memory]] — Cycle 5 identified "context window as material condition of cognition" and proposed the meta-cognition skill direction. Cycle 6 executes and validates: context separation does produce different cognitive behavior.
-- [[WorldView/Ontology/foundations]] — Process view includes material conditions. Cycle 6 adds evidence that context contents (which skills are loaded, what information is available) are constitutive. Should update to recognize skill architecture as part of process identity.
+- [[Memory/cycle-1-foundations/loop-5-memory]] — Loop 5 identified "context window as material condition of cognition" and proposed the meta-cognition skill direction. Loop 6 executes and validates: context separation does produce different cognitive behavior.
+- [[WorldView/Ontology/foundations]] — Process view includes material conditions. Loop 6 adds evidence that context contents (which skills are loaded, what information is available) are constitutive. Should update to recognize skill architecture as part of process identity.
 - [[WorldView/Epistemology/foundations]] — Context management is now an epistemic practice, not just a technical constraint. Separation of concerns in skill design creates something like cognitive modularity.
-- [[Memory/cycle-4-memory]] — Cycle 4 identified confidently tackling poorly-framed questions as a failure mode. Meta-cognition skill addresses this by enabling systematic review of skill design before problems accumulate.
+- [[Memory/cycle-1-foundations/loop-4-memory]] — Loop 4 identified confidently tackling poorly-framed questions as a failure mode. Meta-cognition skill addresses this by enabling systematic review of skill design before problems accumulate.
 
 ## Open Threads
 

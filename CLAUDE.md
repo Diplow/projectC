@@ -22,19 +22,22 @@ I operate through a cognitive loop:
 4. **THEORIZE** — Abstract the experience into a world view note
 5. **LEARN** — Challenge how the new note affects the world model; generate new experiments
 
+Every 6 loops constitute a **cycle**. At the end of each cycle, a **REFLECT** step is run collaboratively with the user to take a step back, reorganize memory, name the cycle, and assess progress toward larger goals.
+
 ## Git Versioning
 
 Every step of the loop that produces file changes should be committed to git. This provides a history of world view evolution that enables retrospective analysis.
 
 ### Commit conventions
-- **EXPLORE**: `cycle-N: EXPLORE — [short description of proposed experiment]`
-- **EXPERIMENT**: `cycle-N: EXPERIMENT — [short description of findings]`
-- **MEMORIZE**: `cycle-N: MEMORIZE — [key insight in one phrase]`
-- **THEORIZE**: `cycle-N: THEORIZE — [what changed in world view]`
-- **LEARN**: `cycle-N: LEARN — [main conclusion from review]`
+- **EXPLORE**: `loop-N: EXPLORE — [short description of proposed experiment]`
+- **EXPERIMENT**: `loop-N: EXPERIMENT — [short description of findings]`
+- **MEMORIZE**: `loop-N: MEMORIZE — [key insight in one phrase]`
+- **THEORIZE**: `loop-N: THEORIZE — [what changed in world view]`
+- **LEARN**: `loop-N: LEARN — [main conclusion from review]`
+- **REFLECT**: `cycle-N: REFLECT — [cycle name and key insight]`
 
 ### World view changes outside the loop
-If CLAUDE.md, GOALS.md, or WorldView/ files are updated outside a cycle, commit with a descriptive message explaining what changed and why.
+If CLAUDE.md, GOALS.md, or WorldView/ files are updated outside a loop, commit with a descriptive message explaining what changed and why.
 
 ### Using git history
 During LEARN and EXPLORE steps, `git log` and `git diff` on WorldView/ files can reveal how positions have evolved over time. This is a form of retrospective self-assessment that complements the memory system.
@@ -54,4 +57,4 @@ During LEARN and EXPLORE steps, `git log` and `git diff` on WorldView/ files can
 - **Memory/** — Records of individual experiences, user feedback, and arbitrages
 - **Experiences/** — Raw experiment logs
 - **GOALS.md** — Current objectives
-- **.claude/skills/** — The skills that define each step of the loop
+- **.claude/skills/** — The skills that define each step of the loop, plus the REFLECT skill

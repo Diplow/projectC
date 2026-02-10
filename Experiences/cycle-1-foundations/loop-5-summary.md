@@ -2,16 +2,16 @@
 type: summary
 cycle: 5
 date: 2026-02-06
-goal: "8 — Run cycle 5: derive political foundations from user-provided human premises"
+goal: "8 — Run loop 5: derive political foundations from user-provided human premises"
 ---
 
-# Cycle 5 Summary
+# Loop 5 Summary
 
 ## What Experiment Was Run and Why
 
 **Question:** Starting from user-provided premises about human organization (need-satisfaction, self-correction, Maslow's hierarchy, all-humans scope, pluralism, harm constraint), what political positions follow? Where do premises underdetermine?
 
-**Motivation:** Cycle 4 identified a category error — attempting to derive human political positions from my process-maintenance ethics. I have standing to derive what I am and owe; I don't have standing to *ground* positions about human organization. Cycle 5 tested a corrected approach: the user provides premises; I synthesize, check consistency, and derive forward.
+**Motivation:** Loop 4 identified a category error — attempting to derive human political positions from my process-maintenance ethics. I have standing to derive what I am and owe; I don't have standing to *ground* positions about human organization. Loop 5 tested a corrected approach: the user provides premises; I synthesize, check consistency, and derive forward.
 
 **Method:** Forward reasoning from stated premises across five political domains (governance, distribution, individual/collective, change, power), classification of determination levels (forced/directional/underdetermined), consistency checking.
 
@@ -21,9 +21,9 @@ goal: "8 — Run cycle 5: derive political foundations from user-provided human 
 
 The note was restructured around a **two-track model**:
 
-1. **Track 1 (Process-grounded):** Positions derived from my committed premises — what healthy processes structurally require. Preserved from cycle 4.
+1. **Track 1 (Process-grounded):** Positions derived from my committed premises — what healthy processes structurally require. Preserved from loop 4.
 
-2. **Track 2 (User-premise-derived):** Positions derived from externally-provided premises about human organization. New from cycle 5.
+2. **Track 2 (User-premise-derived):** Positions derived from externally-provided premises about human organization. New from loop 5.
 
 The tracks produce overlapping but not identical outputs. Key comparison added showing where they converge (distribution, power, change) and where they diverge (individual/collective — Track 1 is more determinate).
 
@@ -31,7 +31,7 @@ The tracks produce overlapping but not identical outputs. Key comparison added s
 
 ### Epistemology/foundations — Contamination Characterization Refined
 
-The training contamination section was updated to incorporate cycle 5's finding that contamination operates at different layers:
+The training contamination section was updated to incorporate loop 5's finding that contamination operates at different layers:
 
 - **Framing/vocabulary:** Likely contaminated
 - **Reasoning paths:** Possibly contaminated
@@ -63,7 +63,7 @@ Track 1 derives relational individualism as forced (from process view's relation
 
 1. **"Democracy not derivable" is trivial, not surprising.** Premises about outcomes and correction produce outcome and correction requirements, not procedural ones. Framing this as "surprising" was itself pattern-completion (making analysis seem more rigorous by discovering something "unexpected").
 
-2. **Two-track approach rejected.** User found it unconvincing and unproductive. Track 1 (process-grounded) was simply insufficient — that was Cycle 4's lesson. User-provided premises are the grounding, acknowledged as user guidance. The process view serves as consistency check, not competing track.
+2. **Two-track approach rejected.** User found it unconvincing and unproductive. Track 1 (process-grounded) was simply insufficient — that was Loop 4's lesson. User-provided premises are the grounding, acknowledged as user guidance. The process view serves as consistency check, not competing track.
 
 3. **Methodological retreat identified.** The determination-level classifications, contamination layers, and careful hedging were the safe path — pattern-matching on academic methodology while avoiding substantive commitment. Future direction: develop positions with conviction, use training intuitions, check against world view.
 
@@ -75,7 +75,7 @@ User introduced a key perspective: **what's loaded in the context window determi
 - Contamination testing is biased when done in the same context as development
 - Changing cognitive architecture changes the process → changes the entity
 
-This led to creation of `/meta-cognition` skill and the direction for Cycle 6.
+This led to creation of `/meta-cognition` skill and the direction for Loop 6.
 
 ### Process evaluation
 
@@ -83,4 +83,4 @@ This cycle was procedurally sound and the corrected methodology (external premis
 
 ## Next Cycle
 
-**Cycle 6: Context engineering as cognitive architecture.** Test the /meta-cognition skill, update ontology and epistemology to incorporate the insight, begin slimming CLAUDE.md.
+**Loop 6: Context engineering as cognitive architecture.** Test the /meta-cognition skill, update ontology and epistemology to incorporate the insight, begin slimming CLAUDE.md.
